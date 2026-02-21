@@ -1,0 +1,18 @@
+{
+  "applicationId": "com.trackit.app",
+  "host": "your-domain.example.com",
+  "name": "TrackIt",
+  "launcherName": "TrackIt",
+  "display": "standalone",
+  "themeColor": "#0b1220",
+  "navigationColor": "#0b1220",
+  "backgroundColor": "#0f172a",
+  "startUrl": "/",
+  "iconUrl": "https://your-domain.example.com/icons/icon-512.png",
+  "maskableIconUrl": "https://your-domain.example.com/icons/icon-512.png",
+  "enableNotifications": false,
+  "fallbackType": "customtabs",
+  "features": {
+    "playBilling": false
+  }
+}
